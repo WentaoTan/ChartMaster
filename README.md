@@ -15,7 +15,7 @@ ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart
 <p align="center">
   <a href="https://wentaotan.github.io/ChartMaster/"><b>[🌐 Website]</b></a> •
   <a href="https://huggingface.co/datasets/TwT-6/ReChartPrompt-240K"><b>[🤗 Dataset]</b></a> •
-  <a href="TODO"><b>[📜 Paper]</b></a> •
+  <a href="https://arxiv.org/pdf/2508.17608"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/WentaoTan/ChartMaster"><b>[🐱 GitHub]</b></a> 
 </p>
 
