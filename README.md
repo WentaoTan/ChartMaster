@@ -13,7 +13,7 @@ ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart
 </div>
 
 <p align="center">
-  <a href="https://wentaotan.github.io/ChartMaster/"><b>[🌐 Website]</b></a> •
+  <a href="https://modelscope.cn/models/tanwentao/ChartMaster-7B"><b>[🌐 Model]</b></a> •
   <a href="https://huggingface.co/datasets/TwT-6/ReChartPrompt-240K"><b>[🤗 Dataset]</b></a> •
   <a href="https://arxiv.org/pdf/2508.17608"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/WentaoTan/ChartMaster"><b>[🐱 GitHub]</b></a> 
@@ -25,6 +25,7 @@ ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart
 
 ## 🔥 News
 
+- [2025/10/16] ChartMaster-7B released.
 - [2025/08/25] ChartMaster paper, repo and website released.
 
 
@@ -59,7 +60,7 @@ ChartMaster-7B sets a new SOTA for open-source 7B models across the ChartMimic, 
     <img src="github/model_performance_chartmimic_plot2code_chartx.png" width="1000">
     <br>
     <em>
-    Figure 2: Fine-tuning Qwen2.5-VL-7B with ReChartPrompt data significantly enhances performance, and applying ChartSimRL further elevates it to match or exceed GPT-4o on certain metrics. For better representation, the "Rating" metric in the Plot2Code benchmark is multiplied by 10.
+    Figure 2: Performance comparison on three benchmarks. Our method outperforms ChartCoder-7B, and matches or exceeds GPT-4o on certain metrics. For better representation, the "Rating" metric in the Plot2Code benchmark is multiplied by 10.
     </em>
 </p>
 
